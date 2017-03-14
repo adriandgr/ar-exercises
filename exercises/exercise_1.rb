@@ -34,4 +34,4 @@ Store.create(
   womens_apparel: false
   )
 
-puts Store.count
+print "Store count: ", Store.count, "\n\n"

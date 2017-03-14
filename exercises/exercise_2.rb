@@ -20,4 +20,4 @@ puts "----------"
 
 @store1.name = 'Port Moody'
 
-puts @store1.name
+print "New name: ", @store1.name, "\n\n"
